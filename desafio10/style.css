@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+
+header{
+    color: white;
+    text-align: center;
+    background-image: linear-gradient(to top rgb(10, 121, 86) green rgb(58, 236, 156));
+}
